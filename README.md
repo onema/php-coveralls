@@ -2,11 +2,7 @@ php-coveralls
 =============
 
 [![Build Status](https://travis-ci.org/onema/php-coveralls.svg?branch=master)](https://travis-ci.org/onema/php-coveralls)
-[![Coverage Status](https://coveralls.io/repos/onema/php-coveralls/badge.svg)](https://coveralls.io/r/onema/php-coveralls)
-[![Dependency Status](https://www.versioneye.com/package/php--satooshi--php-coveralls/badge.png)](https://www.versioneye.com/package/php--satooshi--php-coveralls)
-
-[![Latest Stable Version](https://poser.pugx.org/satooshi/php-coveralls/v/stable.png)](https://packagist.org/packages/satooshi/php-coveralls)
-[![Total Downloads](https://poser.pugx.org/satooshi/php-coveralls/downloads.png)](https://packagist.org/packages/satooshi/php-coveralls)
+[![Coverage Status](https://coveralls.io/repos/onema/php-coveralls/badge.svg?branch=integration)](https://coveralls.io/r/onema/php-coveralls?branch=integration)
 
 PHP client library for [Coveralls](https://coveralls.io). 
 
