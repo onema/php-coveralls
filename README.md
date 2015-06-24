@@ -4,6 +4,10 @@ php-coveralls
 [![Build Status](https://travis-ci.org/onema/php-coveralls.svg?branch=master)](https://travis-ci.org/onema/php-coveralls)
 [![Coverage Status](https://coveralls.io/repos/onema/php-coveralls/badge.svg?branch=integration)](https://coveralls.io/r/onema/php-coveralls?branch=integration)
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/607362a7-fa98-4759-a1f0-d63d5211bccb/mini.png)](https://insight.sensiolabs.com/projects/607362a7-fa98-4759-a1f0-d63d5211bccb)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/onema/php-coveralls/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/onema/php-coveralls/?branch=master)
+
+
 PHP client library for [Coveralls](https://coveralls.io). 
 
 # API doc
