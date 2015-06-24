@@ -2,8 +2,8 @@
 <?php
 
 $files = array(
-    __DIR__ . '/../../vendor/autoload.php',
-    __DIR__ . '/../../../../autoload.php'
+    __DIR__ . '/../vendor/autoload.php',
+    __DIR__ . '/../../../autoload.php'
 );
 
 foreach ($files as $file) {
@@ -25,9 +25,8 @@ if (!defined('PHP_COVERALLS_COMPOSER_INSTALL')) {
 }
 
 use Satooshi\Bundle\CoverallsBundle\Console\Application;
-use Satooshi\Bundle\CoverallsV1Bundle\Version;
 
 $rootDir = realpath(dirname(PHP_COVERALLS_COMPOSER_INSTALL) . '/..');
 
-$app = new Application($rootDir, 'PHP client library for Coveralls API', Version::VERSION);
+$app = new Application($rootDir, 'PHP client library for Coveralls API', '@package_version@');
 $app->run();
