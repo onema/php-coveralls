@@ -4,7 +4,9 @@
 .settings/
 
 # PHP prj
-build/
+build/artifacts/
+build/coverage/
+build/logs/
 cache.properties
 
 # composer
